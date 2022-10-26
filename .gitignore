@@ -1,3 +1,6 @@
+# Adding files to ignore
+js/app_1.js
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
